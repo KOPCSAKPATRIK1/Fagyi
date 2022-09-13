@@ -37,7 +37,10 @@
   .dropdown:hover .dropbtn {background-color: darkgray;}
 
   body{
-    background-image: url('kepek/hatter.jpg');
+    background-image: url('kepek/hatter.jpeg');
+    background-repeat:initial  ;
+    background-attachment: fixed;
+    background-position: center; 
   }
 
 

@@ -50,24 +50,17 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: lightgrey;
-    color: white;
+    background-color: wheat;
+    color: black;
     text-align: center;
  }
-nav,main{
+
+#hatterszin{
   background-color: wheat;
- 
-  
-  
 }
 
  #bemutatas{
   float: left;
-  background-color: wheat;
-  text-shadow: 1px;
-  border-style: solid;
-  border-color: wheat;
-  border-width: 50px;
  }
 
  h1{
@@ -76,31 +69,16 @@ nav,main{
 
  #tortenet{
   float: left;
-  background-color: wheat;
-  text-shadow: 1px;
-  border-style: solid;
-  border-color: wheat;
-  border-width: 50px;
  }
 
  #kep1{
   float: left; 
   clear: left;
-  border-style: solid;
-  border-left: black;
-  border-top: black;
-  border-bottom: black ;
-  border-color: wheat;
-  border-width: 10px;
+ 
  }
 
  #kep2{
   float: right; 
   clear: left;
-  border-style: solid;
-  border-right: black;
-  border-top: black;
-  border-bottom: black ;
-  border-color: wheat;
-  border-width: 10px;
+ 
  }

@@ -3,7 +3,7 @@
     color: white;
     padding: 16px;
     font-size: 16px;
-    border: none;
+    border: none;    
   }
   
   .dropdown {
@@ -32,3 +32,21 @@
   .dropdown:hover .dropdown-content {display: block;}
   
   .dropdown:hover .dropbtn {background-color: darkgray;}
+
+  body{
+    background-image: url('kepek/hatter.jpg');
+  }
+
+nav, main{
+    background-color: wheat ;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgrey;
+    color: white;
+    text-align: center;
+ }
